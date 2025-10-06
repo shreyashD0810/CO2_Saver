@@ -49,8 +49,10 @@ Unlike static carbon calculators, CO₂ Saver builds a **complete behavioral fee
 
 ## 📸 UI Preview
 
-Homepage 
+#🏡 Homepage 
+
 ![Green Receipt](./images/green_receipt.gif) 
 
-Trip Logging / Green Receipt 
+# 🗺️ Trip Logging / Green Receipt 
+
 ![Homepage](./images/homepage.png) 
