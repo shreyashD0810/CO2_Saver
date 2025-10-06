@@ -47,9 +47,9 @@ Unlike static carbon calculators, CO₂ Saver builds a **complete behavioral fee
 
 ---
 
-## 📸 UI Preview
+## 📱 UI Preview
 
-#🏡 Homepage 
+# 🏡 Homepage 
 
 ![Green Receipt](./images/green_receipt.gif) 
 
