@@ -1,0 +1,248 @@
+country,co2,rank
+World,1812356.286,1
+High-income countries,1139836.224,2
+OECD (GCP),979918.557,3
+Non-OECD (GCP),782870.845,4
+Asia,601626.877,5
+Europe,548198.102,6
+Europe (GCP),543796.791,7
+Asia (GCP),523895.55,8
+Upper-middle-income countries,504847.386,9
+North America,496436.927,10
+North America (GCP),488467.952,11
+United States,431852.723,12
+European Union (28),378228.177,13
+European Union (27),298450.476,14
+China,272531.538,15
+Asia (excl. China and India),266225.323,16
+Europe (excl. EU-27),249747.627,17
+Europe (excl. EU-28),169969.916,18
+Russia,121266.528,19
+Lower-middle-income countries,112150.773,20
+Germany,94582.293,21
+United Kingdom,79777.71,22
+Middle East (GCP),77454.605,23
+Japan,68764.528,24
+North America (excl. USA),64584.216,25
+India,62870.022,26
+Africa,52596.171,27
+Africa (GCP),52595.756,28
+South America,46348.123999999996,29
+South America (GCP),46347.78,30
+France,39685.162,31
+Canada,35156.346,32
+Ukraine,31079.175,33
+International shipping,29067.605,34
+Poland,28784.851,35
+Italy,25705.292,36
+South Africa,22255.16,37
+Oceania,22155.228,38
+Oceania (GCP),21954.048,39
+Mexico,21590.755,40
+Iran,21123.716,41
+South Korea,20107.32,42
+Australia,19664.306,43
+Saudi Arabia,18315.963,44
+Brazil,17726.99,45
+Indonesia,16462.347,46
+International aviation,15926.277,47
+Spain,15504.283,48
+Kazakhstan,14457.677,49
+Belgium,12817.953,50
+Czechia,12257.922,51
+Turkey,12220.474,52
+Netherlands,12141.053,53
+Low-income countries,10504.901,54
+Taiwan,9880.295,55
+Argentina,9012.657,56
+Romania,8791.782,57
+Thailand,8040.215,58
+Central America (GCP),7798.844,59
+Venezuela,7708.912,60
+Egypt,7290.294,61
+Malaysia,6771.2699999999995,62
+Uzbekistan,6617.523,63
+Pakistan,5713.489,64
+Austria,5693.512,65
+United Arab Emirates,5662.051,66
+North Korea,5428.408,67
+Algeria,5263.688,68
+Vietnam,5259.26,69
+Hungary,5154.807,70
+Belarus,5126.279,71
+Sweden,5099.764,72
+Iraq,4957.204,73
+Nigeria,4632.5380000000005,74
+Greece,4247.083,75
+Denmark,4168.465,76
+Slovakia,3999.043,77
+Bulgaria,3961.463,78
+Philippines,3813.84,79
+Kuwait,3738.978,80
+Colombia,3736.25,81
+Finland,3294.7690000000002,82
+Chile,3242.663,83
+Switzerland,3125.643,84
+Serbia,2936.9519999999998,85
+Norway,2749.366,86
+Portugal,2732.029,87
+Azerbaijan,2596.787,88
+Turkmenistan,2568.726,89
+Israel,2557.42,90
+Libya,2432.825,91
+Qatar,2427.583,92
+Ireland,2334.435,93
+Singapore,2190.91,94
+Peru,2062.04,95
+New Zealand,1978.2450000000001,96
+Syria,1969.842,97
+Morocco,1946.005,98
+Bangladesh,1922.086,99
+Cuba,1787.434,100
+Hong Kong,1721.507,101
+Trinidad and Tobago,1674.551,102
+Estonia,1660.874,103
+Lithuania,1597.849,104
+Oman,1579.031,105
+Moldova,1353.893,106
+Ecuador,1340.633,107
+Croatia,1165.425,108
+Bahrain,1067.927,109
+Bosnia and Herzegovina,1024.613,110
+Tunisia,1021.509,111
+Latvia,973.703,112
+Slovenia,896.222,113
+Kyrgyzstan,868.752,114
+Dominican Republic,842.597,115
+Mongolia,823.008,116
+Zimbabwe,815.087,117
+Lebanon,787.368,118
+Luxembourg,776.014,119
+Jordan,758.351,120
+Angola,715.341,121
+Yemen,695.831,122
+Georgia,694.838,123
+Myanmar,692.938,124
+Bolivia,609.296,125
+Sri Lanka,559.766,126
+Kenya,550.027,127
+North Macedonia,532.497,128
+Curacao,531.226,129
+Sudan,508.218,130
+Guatemala,500.589,131
+Tajikistan,500.576,132
+Kuwaiti Oil Fires (GCP),477.925,133
+Jamaica,475.94,134
+Uruguay,468.972,135
+Brunei,414.238,136
+Ghana,404.576,137
+Armenia,398.826,138
+Cote d'Ivoire,383.565,139
+Panama,354.667,140
+Tanzania,322.494,141
+Cyprus,314.878,142
+Ethiopia,306.172,143
+Gabon,305.882,144
+Albania,304.173,145
+Cameroon,299.981,146
+Honduras,292.962,147
+Senegal,284.178,148
+Costa Rica,277.661,149
+Zambia,273.928,150
+El Salvador,256.537,151
+Afghanistan,236.841,152
+Democratic Republic of Congo,230.245,153
+Cambodia,223.764,154
+Laos,223.552,155
+Nepal,210.325,156
+Papua New Guinea,201.711,157
+Paraguay,201.564,158
+Mozambique,200.78300000000002,159
+Nicaragua,192.766,160
+Congo,181.048,161
+Bahamas,176.129,162
+Botswana,173.465,163
+Iceland,168.186,164
+New Caledonia,166.468,165
+Equatorial Guinea,155.295,166
+Kosovo,131.601,167
+Mauritius,127.715,168
+Suriname,125.32300000000001,169
+Uganda,123.847,170
+Benin,121.691,171
+Guyana,112.82300000000001,172
+Montenegro,111.814,173
+Madagascar,109.719,174
+Malta,109.545,175
+Guinea,100.749,176
+Mauritania,93.346,177
+Mali,93.059,178
+Namibia,89.563,179
+Burkina Faso,88.719,180
+Haiti,87.121,181
+Lesotho,75.034,182
+Aruba,74.781,183
+Togo,73.778,184
+Palestine,70.79299999999999,185
+Barbados,62.25,186
+Sint Maarten (Dutch part),61.478,187
+Niger,56.857,188
+Macao,56.476,189
+Malawi,55.888,190
+Liberia,51.534,191
+Fiji,50.939,192
+Chad,48.924,193
+Eswatini,44.161,194
+South Sudan,43.723,195
+Sierra Leone,40.335,196
+Greenland,34.839,197
+Somalia,34.469,198
+Rwanda,34.266,199
+French Polynesia,33.162,200
+Faroe Islands,33.082,201
+Maldives,30.998,202
+Bermuda,30.45,203
+Bhutan,28.952,204
+Antigua and Barbuda,26.263,205
+Belize,21.029,206
+Djibouti,20.426,207
+Eritrea,18.165,208
+Gambia,16.725,209
+Andorra,16.237,210
+Cape Verde,16.189,211
+Saint Lucia,15.911,212
+Burundi,15.416,213
+Seychelles,15.307,214
+Central African Republic,12.12,215
+East Timor,11.437,216
+Solomon Islands,11.311,217
+Palau,11.215,218
+Guinea-Bissau,11.045,219
+Liechtenstein,9.883,220
+Grenada,9.239,221
+Saint Kitts and Nevis,7.745,222
+Saint Vincent and the Grenadines,7.682,223
+Bonaire Sint Eustatius and Saba,7.638,224
+Samoa,7.562,225
+Turks and Caicos Islands,7.239,226
+Comoros,6.799,227
+British Virgin Islands,6.087,228
+Vanuatu,5.445,229
+Dominica,5.322,230
+Nauru,5.027,231
+Tonga,4.995,232
+Micronesia (country),4.723,233
+Sao Tome and Principe,3.932,234
+Saint Pierre and Miquelon,3.867,235
+Marshall Islands,3.8609999999999998,236
+Anguilla,3.482,237
+Cook Islands,2.625,238
+Kiribati,2.215,239
+Montserrat,1.657,240
+Christmas Island,1.333,241
+Wallis and Futuna,0.835,242
+Ryukyu Islands (GCP),0.8180000000000001,243
+Saint Helena,0.419,244
+Tuvalu,0.315,245
+Niue,0.307,246
+Antarctica,0.157,247
