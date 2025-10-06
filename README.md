@@ -1,3 +1,5 @@
+![CO₂ Saver Banner](./images/banner.png)
+
 # 🌿 CO₂ Saver — Real-Time Carbon Intelligence & Emission Optimization Platform
 
 CO₂ Saver is a sustainability-driven analytics platform that enables users to **track, predict, and reduce their transportation-based carbon footprint**.  
@@ -44,3 +46,9 @@ Unlike static carbon calculators, CO₂ Saver builds a **complete behavioral fee
 5. **Prediction Engine Suggests Future Impact →** Change mode to improve rank
 
 ---
+
+## 📸 UI Preview
+
+| Homepage | Trip Logging / Green Receipt |
+|----------|-----------------------------|
+| ![Homepage](./images/homepage.png) | ![Green Receipt](./images/green_receipt.gif) |
